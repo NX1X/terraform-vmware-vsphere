@@ -41,8 +41,8 @@ The module allows you to specify the following VM attributes:
 1. Clone this repository:
 
    ```
-   git clone https://github.com/your-username/vsphere-vm-module.git
-   cd vsphere-vm-module
+   git clone https://github.com/NX1X/terraform-vmware-vsphere.git
+   cd terraform-vmware-vsphere
    ```
 
 2. Create a `terraform.tfvars` file in the root of the project directory and fill in your vSphere and VM details:
